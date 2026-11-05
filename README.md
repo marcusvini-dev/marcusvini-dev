@@ -10,7 +10,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">Connect with me!</h2>
+<h2 data-importer="text" align="left">Connect With Me!</h2>
 
 ###
 
@@ -30,7 +30,7 @@
 
 ###
 
-<h2 data-importer="text" align="left">My stack</h2>
+<h2 data-importer="text" align="left">My Skills</h2>
 
 ###
 
