@@ -1,8 +1,10 @@
-<br clear="both">
-<svg width="100%" viewBox="0 0 390 130" role="img" xmlns="http://www.w3.org/2000/svg" style="" xmlns:c2pa="http://c2pa.org/manifest">
+<p align="center">
+  <img src="banner.svg" alt="Marcus Vinicius" width="100%">
+</p>
+
 <br clear="both">
 
-<p data-importer="text" align="left">Sou estudante de Análise e Desenvolvimento de Sistemas, com forte interesse em tecnologia, programação e desenvolvimento de software. Atualmente estou desenvolvendo minhas habilidades em Python, HTML e CSS, buscando transformar o conhecimento acadêmico em aplicações práticas. Já coloquei isso em prática em pequenos projetos Tenho interesse em entender como a tecnologia pode ser usada para resolver problemas, automatizar processos e desenvolver soluções eficientes. Estou constantemente trabalhando para melhorar minhas habilidades técnicas, aprender novas ferramentas e ganhar experiência prática na área.</p>
+<p data-importer="text" align="left">Sou estudante de Análise e Desenvolvimento de Sistemas, com forte interesse em tecnologia, programação e desenvolvimento de software. Atualmente estou desenvolvendo minhas habilidades em Python, HTML e CSS, buscando transformar o conhecimento acadêmico em aplicações práticas. Já coloquei isso em prática em pequenos projetos. Tenho interesse em entender como a tecnologia pode ser usada para resolver problemas, automatizar processos e desenvolver soluções eficientes. Estou constantemente trabalhando para melhorar minhas habilidades técnicas, aprender novas ferramentas e ganhar experiência prática na área.</p>
 
 ###
 
@@ -19,7 +21,7 @@
   <a href="https://www.linkedin.com/in/marcusvinicius07/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbohttps://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox" target="_blank">
+  <a href="mailto:SEUEMAIL@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
