@@ -7,7 +7,6 @@
 ###
 
 <br clear="both">
-###
 
 <p data-importer="text" align="left">Sou estudante de Análise e Desenvolvimento de Sistemas, com forte interesse em tecnologia, programação e desenvolvimento de software. Atualmente estou desenvolvendo minhas habilidades em Python, HTML e CSS, buscando transformar o conhecimento acadêmico em aplicações práticas. Já coloquei isso em prática em pequenos projetos Tenho interesse em entender como a tecnologia pode ser usada para resolver problemas, automatizar processos e desenvolver soluções eficientes. Estou constantemente trabalhando para melhorar minhas habilidades técnicas, aprender novas ferramentas e ganhar experiência prática na área.</p>
 
